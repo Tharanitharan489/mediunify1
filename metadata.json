@@ -1,0 +1,6 @@
+{
+  "name": "MediUnify - Integrated EHR Platform",
+  "description": "Unified patient records platform for healthcare organizations solving fragmented clinical data, enabling smarter clinical decisions with multi-role access, lab & medication tracking, audit logging, and clinical insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
